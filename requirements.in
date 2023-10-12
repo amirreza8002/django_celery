@@ -1,0 +1,5 @@
+django
+black
+ruff
+celery
+redis
